@@ -11,43 +11,43 @@ Computer vision researcher
 <a href="https://github.com/RomanJuranek">GitHub</a>
 </div>
 -->
-[rjuranek1983@gmail.com](rjuranek1983@gmail.com) |
+
+[rjuranek1983@gmail.com](mailto:rjuranek1983@gmail.com) |
 [GitHub](https://github.com/RomanJuranek) |
 [LinkedIn](cz.linkedin.com/in/romanjuranek/) | 
 [ORCID: 0000-0003-0589-0172](https://orcid.org/0000-0003-0589-0172)
 
 
-
 ## Currently
 
-Research scientist and software developer at COGNITECHNA s.r.o.
+Research scientist and software developer at COGNITECHNA s.r.o. I collaborate on development of Smart City Monitoring Platform. In particular detection and localization of vehicles, GIS data processing and optimal route planning in urban environment. I use OpenStreetMap a lot.
 
 ### Specialized in
 
-Image processing, Conputer vision, Neural networks, Computational geometry
+Image processing, Conputer vision, Deep learning, Computational geometry
 
 ### Research interests
 
-Object detection and tracking 
+My research interests were alwayls in **conputer vision**, particularly in **object detection** with classifiers. More recently, my research moved to **camera calibration** for traffic surveillance purposes (more conretely **vehicle speed measurement**) and **license plate detection** and recognition. In these areas I (and my coworkers) applied **deep learning** methods. On my current position, I develped models for **vehicle make and model recognition** for industrial purposes using neural networks and with hardware constraints. ANd finally I participate on development of monitoring platform where I am responsible for propper **camera calibration**, **localization of vehicles**, **GIS** data processing and **route planning** through urban area. So loads of **computational geometry**.
 
 
 ## Education
 
 `2002-2005`
 __Brno University of Technology, Brno__
-- Bachelor degree
+- Bachelor degree. Thesis on Image compression using quad trees.
 
 `2005-2007`
 __Brno University of Technology, Brno__
-- Master degree
+- Master degree. Thesis on Fast object detection with AdaBoost.
 
 `2007-2012`
 __Brno University of Technology, Brno__
-- Doctoral degree
+- Doctoral degree. Thesis on Acceleration of object detection with classifiers.
 
 `2012-present`
 __Brno University of Technology, Brno__
-- Lecturer, Computer vision
+- Lecturer, Computer vision course - object detection and tracking in video.
 
 
 
@@ -74,7 +74,7 @@ A list of selected publications from 2017 onwards. More complete list is availab
 `2022`
 - JURÁNEK Roman, VÝRAVSKÝ Jakub, KOLÁŘ Martin, MOTL David and ZEMČÍK Pavel
 - __Graph-based deep learning segmentation of EDS spectral images for automated mineral phase analysis__
-Computers and Geosciences, ISSN 0098-3004
+- Computers and Geosciences, ISSN 0098-3004
 
 `2021`
 - JURÁNEK Roman, MUSIL Petr and ZEMČÍK Pavel
