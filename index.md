@@ -54,6 +54,33 @@ __Brno University of Technology, Brno__
 
 A list of selected publications from 2017 onwards. More complete list is available at [Google Scholar](https://scholar.google.com/citations?user=TpdFhowAAAAJ&hl=cs)
 
+
+
+`2023`
+- JURÁNEK Roman, KLEPÁRNÍK Petr, KAPINUS Michal, DOBEŠ Petr and SMRŽ Pavel
+- __A Study of Real-time Computer Vision Tasks in 5G-enhanced Environment__
+- EuCNC & 6G Summit Proceedings. Gothenburg, 2023
+
+`2023`
+- MATERNA Zdeněk, KAPINUS Michal, DOBEŠ Petr, JURÁNEK Roman and SMRŽ Pavel
+- __Communication Framework for 5G-Enabled Network Applications__
+- EuCNC & 6G Summit Proceedings. Gothenburg, 2023
+
+`2023`
+- JURÁNEK Roman, MUSIL Petr, MUSIL Martin, NOSKO Svetozár and ZEMČÍK Pavel
+- __Smart camera for traffic applications__
+- Journal of Signal Processing Systems, vol. 95, no. 9, 2023, ISSN 1939-8115
+
+`2022`
+- JURÁNEK Roman, VÝRAVSKÝ Jakub, KOLÁŘ Martin, MOTL David and ZEMČÍK Pavel
+- __Graph-based deep learning segmentation of EDS spectral images for automated mineral phase analysis__
+Computers and Geosciences, ISSN 0098-3004
+
+`2021`
+- JURÁNEK Roman, MUSIL Petr and ZEMČÍK Pavel
+- __Unconstrained License Plate Detection in Hardware__
+- Proceedings of the 7th International Conference on Vehicle Technology and Intelligent Transport Systems
+
 `2020`
 - BARTL Vojtěch, ŠPAŇHEL Jakub, DOBEŠ Petr, JURÁNEK Roman a HEROUT Adam.
 - __Automatic Camera Calibration by Landmarks on Rigid Objects__
@@ -84,7 +111,7 @@ A list of selected publications from 2017 onwards. More complete list is availab
 - __Traffic Surveillance Camera Calibration by 3D Model Bounding Box Alignment for Accurate Vehicle Speed Measurement__
 - Computer Vision and Image Understanding. 2017
 
-``2017`
+`2017`
 - ŠPAŇHEL Jakub, SOCHOR Jakub, JURÁNEK Roman, HEROUT Adam, MARŠÍK Lukáš a ZEMČÍK Pavel 
 - __Holistic Recognition of Low Quality License Plates by CNN using Track Annotated Data__
 - International Workshop on Traffic and Street Surveillance for Safety and Security (AVSS 2017)
@@ -156,11 +183,21 @@ __Zoner__
 - Development of image rectification and horizon detection.
 
 __Camea__
--   
+- Various projects related to traffic surveillance
+
 
 ## Software and tools I use
 
-__Python__
+
+### Misc
+
+For development I use mainly Python since it offers large ecosystem of tool for data science and deep learning. I am familiar with ``numpy``, ``pandas``, ``pytorch``, ``tensorflow``, ``sqlalchemy``, ``matplotlib``, ``PIL``, ``scipy``, ``skimage``, ``sklearn`` and others.
+
+I am falimiar with SQL databases like Postgres, MQTT, ZeroMQ, RabbitMQ.
+
+Fom GIS-world, I can use QGIS (including my own mython extensions an docnnection to remote data sources), PostGIS and python ecosystem for GIS - ``geopandas``, ``proj``, ``osmnx``. I can deploy and customize multiple routing engines like OSRM and Valhalla.
+
+I can use docker for deployment of services (incl. creation of my own images).
 
 <!-- ### Footer
 
