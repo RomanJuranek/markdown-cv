@@ -186,18 +186,17 @@ __Camea__
 - Various projects related to traffic surveillance
 
 
-## Software and tools I use
+## Misc
 
+For development I use mainly VS Code and Python since it offers large ecosystem of tool for data science and deep learning. I am familiar with **numpy**, **pandas**, **pytorch**, **opencv**, **tensorflow**, **sqlalchemy**, **matplotlib**, **PIL**, **scipy**, **skimage**, **sklearn** and others.
 
-### Misc
+I am falimiar with Git, MQTT, ZeroMQ, RabbitMQ, Postgres.
 
-For development I use mainly Python since it offers large ecosystem of tool for data science and deep learning. I am familiar with ``numpy``, ``pandas``, ``pytorch``, ``tensorflow``, ``sqlalchemy``, ``matplotlib``, ``PIL``, ``scipy``, ``skimage``, ``sklearn`` and others.
-
-I am falimiar with SQL databases like Postgres, MQTT, ZeroMQ, RabbitMQ.
-
-Fom GIS-world, I can use QGIS (including my own mython extensions an docnnection to remote data sources), PostGIS and python ecosystem for GIS - ``geopandas``, ``proj``, ``osmnx``. I can deploy and customize multiple routing engines like OSRM and Valhalla.
+Fom GIS-world, I can use QGIS (including my own mython extensions an docnnection to remote data sources), PostGIS and python ecosystem for GIS - **geopandas**, **proj**, **osmnx**. I can deploy and customize multiple routing engines like OSRM and Valhalla.
 
 I can use docker for deployment of services (incl. creation of my own images).
+
+So far I was luckily not forced to use corporate stuff like Jira or so. I keep my stuff organized in notes and Trello. But I can learn. I usually communicate through Slack or Discord (or even Teams \*sigh\* :sob:, aways pain), but anything will be ok.
 
 <!-- ### Footer
 
