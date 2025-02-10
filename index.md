@@ -30,6 +30,7 @@ Image processing, Conputer vision, Neural networks, Computational geometry
 
 Object detection and tracking 
 
+
 ## Education
 
 `2002-2005`
@@ -44,7 +45,7 @@ __Brno University of Technology, Brno__
 __Brno University of Technology, Brno__
 - Doctoral degree
 
-`2012-now`
+`2012-present`
 __Brno University of Technology, Brno__
 - Lecturer, Computer vision
 
@@ -53,7 +54,6 @@ __Brno University of Technology, Brno__
 ## Publications
 
 A list of selected publications from 2017 onwards. More complete list is available at [Google Scholar](https://scholar.google.com/citations?user=TpdFhowAAAAJ&hl=cs)
-
 
 
 `2023`
@@ -119,7 +119,7 @@ Computers and Geosciences, ISSN 0098-3004
 
 ## Occupation
 
-`2007-now`
+`2007-present`
 __Brno University of Technology__
 - Research scientist - methods for object detection
 - Leading bachelor and dimploma theses
@@ -185,18 +185,29 @@ __Zoner__
 __Camea__
 - Various projects related to traffic surveillance
 
+__AtomTrace__
+- Classification of laser spectroscopy data
+
+__BringAuto__
+- Development of software for Transportation Use Case in 5G-Era project.
+
 
 ## Misc
 
-For development I use mainly VS Code and Python since it offers large ecosystem of tool for data science and deep learning. I am familiar with **numpy**, **pandas**, **pytorch**, **opencv**, **tensorflow**, **sqlalchemy**, **matplotlib**, **PIL**, **scipy**, **skimage**, **sklearn** and others.
 
-I am falimiar with Git, MQTT, ZeroMQ, RabbitMQ, Postgres.
+For development I use mainly VS Code and Python since it offers large ecosystem of tool for data science and deep learning. I am familiar with **numpy**, **pandas**, **pytorch**, **opencv**, **tensorflow**, **sqlalchemy**, **matplotlib**, **PIL**, **scipy**, **skimage**, **sklearn** and others. I keep code in Git.
 
-Fom GIS-world, I can use QGIS (including my own mython extensions an docnnection to remote data sources), PostGIS and python ecosystem for GIS - **geopandas**, **proj**, **osmnx**. I can deploy and customize multiple routing engines like OSRM and Valhalla.
+From other languages I am familiar with C++ and C# but to use them fluently would take some time. I can learn though.
 
-I can use docker for deployment of services (incl. creation of my own images).
+From GIS-world, I can use QGIS (including my own Python extensions an connection to remote data sources), PostGIS and Python ecosystem for GIS - **geopandas**, **proj**, **osmnx**. I can deploy and customize multiple routing engines like OSRM and Valhalla.
 
-So far I was luckily not forced to use corporate stuff like Jira or so. I keep my stuff organized in notes and Trello. But I can learn. I usually communicate through Slack or Discord (or even Teams \*sigh\* :sob:, aways pain), but anything will be ok.
+For development of distributed applications I se ZeroMQ, RabbitMQ, MQTT and REST API.
+
+I can use Docker for deployment of services (incl. creation of my own images).
+
+I am not much of a frotend developer and I stay rather at backend.
+
+So far I was luckily not forced to use corporate stuff like Jira or so. I keep my stuff organized in notes or in Trello. But I can learn. I usually communicate through Slack or Discord (or even Teams \*sigh\*, always pain), but anything will be ok.
 
 <!-- ### Footer
 
