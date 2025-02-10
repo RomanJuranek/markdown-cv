@@ -5,10 +5,17 @@ title: Roman Juránek's CV
 # Roman Juránek
 Computer vision researcher
 
+<!--
 <div id="webaddress">
 <a href="rjuranek1983@gmail.com">rjuranek1983@gmail.com</a>
 <a href="https://github.com/RomanJuranek">GitHub</a>
 </div>
+-->
+[rjuranek1983@gmail.com](rjuranek1983@gmail.com) |
+[GitHub](https://github.com/RomanJuranek) |
+[LinkedIn](cz.linkedin.com/in/romanjuranek/) | 
+[ORCID: 0000-0003-0589-0172](https://orcid.org/0000-0003-0589-0172)
+
 
 
 ## Currently
@@ -45,15 +52,42 @@ __Brno University of Technology, Brno__
 
 ## Publications
 
-A list is also available at [Google Scholar](https://scholar.google.com/citations?user=TpdFhowAAAAJ&hl=cs)
+A list of selected publications from 2017 onwards. More complete list is available at [Google Scholar](https://scholar.google.com/citations?user=TpdFhowAAAAJ&hl=cs)
 
 `2020`
-- BARTL Vojtěch, ŠPAŇHEL Jakub, DOBEŠ Petr, JURÁNEK Roman a HEROUT Adam. Automatic Camera Calibration by Landmarks on Rigid Objects. Machine Vision and Applications, 2020
-- MUSIL Petr, JURÁNEK Roman, MUSIL Martin a ZEMČÍK Pavel. Cascaded Stripe Memory Engines for Multi-Scale Object Detection in FPGA. IEEE Transactions on Circuits and Systems for Video Technology, 2020
+- BARTL Vojtěch, ŠPAŇHEL Jakub, DOBEŠ Petr, JURÁNEK Roman a HEROUT Adam.
+- __Automatic Camera Calibration by Landmarks on Rigid Objects__
+- Machine Vision and Applications, 2020
+
+`2020`
+- MUSIL Petr, JURÁNEK Roman, MUSIL Martin a ZEMČÍK Pavel.
+- __Cascaded Stripe Memory Engines for Multi-Scale Object Detection in FPGA__
+- IEEE Transactions on Circuits and Systems for Video Technology, 2020
 
 `2019`
-- ŠPAŇHEL Jakub, SOCHOR Jakub, JURÁNEK Roman, DOBEŠ Petr, BARTL Vojtěch a HEROUT Adam. Learning Feature Aggregation in Temporal Domain for Re-Identification. Computer Vision and Image Understanding, 2019
-- ŠPAŇHEL Jakub, BARTL Vojtěch, JURÁNEK Roman a HEROUT Adam. Vehicle Re-Identification and Multi-Camera Tracking in Challenging City-Scale Environment. In: 2019 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW). 2019
+- ŠPAŇHEL Jakub, SOCHOR Jakub, JURÁNEK Roman, DOBEŠ Petr, BARTL Vojtěch a HEROUT Adam
+- __Learning Feature Aggregation in Temporal Domain for Re-Identification__
+- Computer Vision and Image Understanding, 2019
+
+`2019`
+- ŠPAŇHEL Jakub, BARTL Vojtěch, JURÁNEK Roman a HEROUT Adam.
+- __Vehicle Re-Identification and Multi-Camera Tracking in Challenging City-Scale Environment__
+- IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW). 2019
+
+`2018`
+- SOCHOR Jakub, JURÁNEK Roman, ŠPAŇHEL Jakub, MARŠÍK Lukáš, ŠIROKÝ Adam, HEROUT Adam a ZEMČÍK Pavel
+- __Comprehensive Data Set for Automatic Single Camera Visual Speed Measurement__
+- IEEE Transactions on Intelligent Transportation Systems. 2018
+
+`2017`
+- SOCHOR Jakub, JURÁNEK Roman a HEROUT Adam
+- __Traffic Surveillance Camera Calibration by 3D Model Bounding Box Alignment for Accurate Vehicle Speed Measurement__
+- Computer Vision and Image Understanding. 2017
+
+``2017`
+- ŠPAŇHEL Jakub, SOCHOR Jakub, JURÁNEK Roman, HEROUT Adam, MARŠÍK Lukáš a ZEMČÍK Pavel 
+- __Holistic Recognition of Low Quality License Plates by CNN using Track Annotated Data__
+- International Workshop on Traffic and Street Surveillance for Safety and Security (AVSS 2017)
 
 
 ## Occupation
@@ -111,11 +145,22 @@ __RoSuM - Lokalizace vodorovného a svislého dopravního značení, kontrola kv
 
 ## Collaboration with industry
 
-* TESCAN
+I collaborated with few companies on contractual research projects and within the scope of grant projects.
+
+__TESCAN__
+- Localization of FIB markers
+- Advenced segmentation of EDS+BSE images
+- Particle segmentation in images
+
+__Zoner__
+- Development of image rectification and horizon detection.
+
+__Camea__
+-   
 
 ## Software and tools I use
 
-ddd
+__Python__
 
 <!-- ### Footer
 
