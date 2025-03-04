@@ -2,7 +2,7 @@
 layout: cv
 title: Roman Juránek's CV
 ---
-# Roman Juránek
+# Ing. Roman Juránek Ph.D.
 Computer vision researcher
 
 <!--
@@ -20,40 +20,35 @@ Computer vision researcher
 
 ## Currently
 
-Research scientist and software developer at COGNITECHNA s.r.o. I collaborate on development of Smart City Monitoring Platform. In particular detection and localization of vehicles, GIS data processing and optimal route planning in urban environment. I use OpenStreetMap a lot.
+Research scientist and software developer at COGNITECHNA s.r.o. I lead the development of *Smart City Monitoring Platform*. In particular, detection and localization of vehicles, GIS data processing and optimal route planning in urban areas. I use OpenStreetMap a lot.
 
 ### Specialized in
 
-Image processing, Conputer vision, Deep learning, Computational geometry
+Image processing, Computer vision, Deep learning, Computational geometry
 
 ### Research interests
 
-My research interests were alwayls in **conputer vision**, particularly in **object detection** with classifiers. More recently, my research moved to **camera calibration** for traffic surveillance purposes (more conretely **vehicle speed measurement**) and **license plate detection** and recognition. In these areas I (and my coworkers) applied **deep learning** methods. On my current position, I develped models for **vehicle make and model recognition** for industrial purposes using neural networks and with hardware constraints. ANd finally I participate on development of monitoring platform where I am responsible for propper **camera calibration**, **localization of vehicles**, **GIS** data processing and **route planning** through urban area. So loads of **computational geometry**.
+My research interests were always in **conputer vision**, particularly in **object detection** with neural networks. More recently, my research moved to **camera calibration** for traffic surveillance purposes (more concretely **vehicle speed measurement**) and **license plate detection** and recognition. In these areas I (and my co-workers) successfuly applied **deep learning** methods. On my current position, I develped models for **vehicle make and model recognition** for industrial purposes using neural networks and with hardware constraints. And finally, I lead development of monitoring platform where I am responsible for achievement of long term goals, and development of methods for **camera calibration**, **localization of vehicles**, **GIS** data processing and **route planning**. 
 
 
 ## Education
 
-`2002-2005`
+`2007-2012`
 __Brno University of Technology, Brno__
-- Bachelor degree. Thesis on Image compression using quad trees.
+- Doctoral degree. Thesis on *Acceleration of object detection with classifiers*.
 
 `2005-2007`
 __Brno University of Technology, Brno__
-- Master degree. Thesis on Fast object detection with AdaBoost.
+- Master degree. Thesis on *Fast object detection with AdaBoost*.
 
-`2007-2012`
+`2002-2005`
 __Brno University of Technology, Brno__
-- Doctoral degree. Thesis on Acceleration of object detection with classifiers.
-
-`2012-present`
-__Brno University of Technology, Brno__
-- Lecturer, Computer vision course - object detection and tracking in video.
-
+- Bachelor degree. Thesis on *Image compression using quad trees*.
 
 
 ## Publications
 
-A list of selected publications from 2017 onwards. More complete list is available at [Google Scholar](https://scholar.google.com/citations?user=TpdFhowAAAAJ&hl=cs)
+*A list of selected publications from 2017 onwards. More complete list is available at [Google Scholar](https://scholar.google.com/citations?user=TpdFhowAAAAJ&hl=cs)*
 
 
 `2023`
@@ -121,24 +116,26 @@ A list of selected publications from 2017 onwards. More complete list is availab
 
 `2007-present`
 __Brno University of Technology__
-- Research scientist - methods for object detection
-- Leading bachelor and dimploma theses
+- *Lecturer* - Computer Vision course - Object detection and tracking
+- *Research scientist* - methods for object detection
+- Leading bachelor and diploma theses
 
 `2022-present`
 __COGNITECHNA s.r.o.__
-- Researach scientist in machine learning
-- Senior developer - software for monitoring platform
-- GIS engineer - GIS data management, route planning
+- *Researach scientist* - Deep learning, Computational geometry
+- *Data annotation* for training of industrial object classifiers
+- *GIS engineer* - GIS data management, Route planning
+- *Team lead* - Development of monitoring platform, Research projects
 
 
 ## Participation in research projects
 
-Linsting projects form 2017 onwards.
+*Listing projects form 2018 onwards.*
 
 `2018-2020`
 __SMARTCarPark - Surveillance Monitoring, Analysis and Re-identification of Traffic for Enhanced Car Parking__
 - TACR, TH03010529
-- Development of vehicle counting software for parking lots
+- Development of vehicle counting, recognition and reidentification software for parking lots.
 
 `2018-2021`
 __Progressive Image Processing Algorithms__
@@ -148,45 +145,45 @@ __Progressive Image Processing Algorithms__
 `2018-2021`
 __From the cloud to the edge - smart IntegraTion and OPtimisation Technologies for highly efficient Image and VIdeo processing Systems__
 - ECSEL JU, 8A18011
-- Porject lead at BUT. Development of lightweight FPGA IP Cores for object detection.
+- Project lead at BUT. Development of lightweight FPGA IP Cores for object detection.
 
 `2022-2024`
 __5G Enhanced Robot Autonomy__
 - Horizon 2020, No. 101016681
 - [web](https://5g-era.eu/), [GitHub](https://github.com/5G-ERA)
-- Project ledaer for Cognitechna
-- Debelopment of methods for cloud processing in ROS2
+- Project lead for Cognitechna
+- Development of methods for brigding ROS2 processing to cloud environment with 5G support.
 
 `2023-present`
 __EMIR - Vestavěná inteligence s podporou 5G pro autonomii robotů a aplikace pro monitorování chytrých měst__
 - TACR, FW07010052
 - Project lead
-- Extension of Smart City Monitoring Platform (SCMP) with cloud services and 5G connectivity
+- Extension of Smart City Monitoring Platform (SCMP) with cloud services and 5G connectivity.
 
 `2023-present`
 __RoSuM - Lokalizace vodorovného a svislého dopravního značení, kontrola kvality a pravidelná pasportizace s podporou 5G__
 - TACR, FW08010017
 - Project lead
-- Development of advanced road passportization tools
+- Development of advanced road passportization tools based on deep learning and computational geometry.
 
 
 ## Collaboration with industry
 
-I collaborated with few companies on contractual research projects and within the scope of grant projects.
+*As a research scientist at Brno University of Technology, I collaborated with companies on contractual research and grant projects*
 
 __TESCAN__
-- Localization of FIB markers
-- Advenced segmentation of EDS+BSE images
-- Particle segmentation in images
+- Software for fast localization of FIB markers
+- Methods for advenced segmentation of multispectral EDS+BSE images
+- Methods for particle segmentation in images
 
 __Zoner__
-- Development of image rectification and horizon detection.
+- Development of library for image rectification and horizon detection.
 
 __Camea__
-- Various projects related to traffic surveillance
+- Various projects related to traffic surveillance - detection of license plates, recognition and reidentification of vehicles.
 
 __AtomTrace__
-- Classification of laser spectroscopy data
+- Prototyping of classification of laser spectroscopy data.
 
 __BringAuto__
 - Development of software for Transportation Use Case in 5G-Era project.
@@ -195,19 +192,19 @@ __BringAuto__
 ## Misc
 
 
-For development I use mainly VS Code and Python since it offers large ecosystem of tool for data science and deep learning. I am familiar with **numpy**, **pandas**, **pytorch**, **opencv**, **tensorflow**, **sqlalchemy**, **matplotlib**, **PIL**, **scipy**, **skimage**, **sklearn** and others. I keep code in Git.
+For development I mainly use VS Code and Python since it offers large ecosystem of tool for data science and deep learning. I am familiar with **numpy**, **pandas**, **pytorch**, **opencv**, **tensorflow**, **sqlalchemy**, **matplotlib**, **PIL**, **scipy**, **skimage**, **sklearn** and others. I keep code in Git.
 
-From other languages I am familiar with C++ and C# but to use them fluently would take some time. I can learn though.
+From other languages I am familiar with *C++* and *C#* but to use them fluently would take some time (I am out of this game for quite a long). I can learn though.
 
 From GIS-world, I can use QGIS (including my own Python extensions an connection to remote data sources), PostGIS and Python ecosystem for GIS - **geopandas**, **proj**, **osmnx**. I can deploy and customize multiple routing engines like OSRM and Valhalla.
 
-For development of distributed applications I se ZeroMQ, RabbitMQ, MQTT and REST API.
+For development of distributed applications I can use ZeroMQ, RabbitMQ, MQTT and REST API.
 
 I can use Docker for deployment of services (incl. creation of my own images).
 
-I am not much of a frotend developer and I stay rather at backend.
+I am not much of a frontend developer and I rather stay at backend.
 
-So far I was luckily not forced to use corporate stuff like Jira or so. I keep my stuff organized in notes or in Trello. But I can learn. I usually communicate through Slack or Discord (or even Teams \*sigh\*, always pain), but anything will be ok.
+So far I was luckily not forced to use corporate stuff like Jira or so. I keep my stuff organized in notes or in Trello. But I can learn. I usually communicate through *Slack* or *Discord* (or even Teams \*sigh\*, always pain), but anything will be ok.
 
 <!-- ### Footer
 
