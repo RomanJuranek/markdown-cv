@@ -169,7 +169,7 @@ __RoSuM - Lokalizace vodorovného a svislého dopravního značení, kontrola kv
 
 ## Collaboration with industry
 
-*As a research scientist on Brno University of Technology, I collaborated with companies on contractual research and grant projects*
+*As a research scientist at Brno University of Technology, I collaborated with companies on contractual research and grant projects*
 
 __TESCAN__
 - Software for fast localization of FIB markers
@@ -192,17 +192,17 @@ __BringAuto__
 ## Misc
 
 
-For development I use mainly VS Code and Python since it offers large ecosystem of tool for data science and deep learning. I am familiar with **numpy**, **pandas**, **pytorch**, **opencv**, **tensorflow**, **sqlalchemy**, **matplotlib**, **PIL**, **scipy**, **skimage**, **sklearn** and others. I keep code in Git.
+For development I mainly use VS Code and Python since it offers large ecosystem of tool for data science and deep learning. I am familiar with **numpy**, **pandas**, **pytorch**, **opencv**, **tensorflow**, **sqlalchemy**, **matplotlib**, **PIL**, **scipy**, **skimage**, **sklearn** and others. I keep code in Git.
 
-From other languages I am familiar with C++ and C# but to use them fluently would take some time. I can learn though.
+From other languages I am familiar with *C++* and *C#* but to use them fluently would take some time (I am out of this game for quite a long). I can learn though.
 
 From GIS-world, I can use QGIS (including my own Python extensions an connection to remote data sources), PostGIS and Python ecosystem for GIS - **geopandas**, **proj**, **osmnx**. I can deploy and customize multiple routing engines like OSRM and Valhalla.
 
-For development of distributed applications I se ZeroMQ, RabbitMQ, MQTT and REST API.
+For development of distributed applications I can use ZeroMQ, RabbitMQ, MQTT and REST API.
 
 I can use Docker for deployment of services (incl. creation of my own images).
 
-I am not much of a frontend developer and I stay rather at backend.
+I am not much of a frontend developer and I rather stay at backend.
 
 So far I was luckily not forced to use corporate stuff like Jira or so. I keep my stuff organized in notes or in Trello. But I can learn. I usually communicate through *Slack* or *Discord* (or even Teams \*sigh\*, always pain), but anything will be ok.
 
